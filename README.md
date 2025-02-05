@@ -1,6 +1,6 @@
-# 🏥 Fine-Tuning DeepSeek R1 for Medical Reasoning
+# Fine-Tuning DeepSeek R1 for Medical Reasoning
 
-## 📌 Project Overview  
+##  Project Overview  
 This project focuses on fine-tuning **DeepSeek R1**, an advanced open-weight LLM, for **medical reasoning and clinical decision-making**. We employ **Chain-of-Thought (CoT) reasoning**, LoRA, and QLoRA to optimize training efficiency while maintaining high performance.  
 
 ---
