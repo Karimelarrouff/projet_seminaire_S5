@@ -11,6 +11,8 @@ Fine-Tuning-DeepSeek-Medical/
 │── notebook/                # Contains the detailed Jupyter Notebook for fine-tuning
 │   ├── fine_tuning.ipynb    # Jupyter Notebook with all steps explained
 │
+│── Full_report.pdf/         # Project Report
+│
 │── model/                   # Contains the trained model
 │   ├── README.md            # Instructions on how to download the model
 │   ├── link_to_model.txt    # Contains the Google Drive link for model download
